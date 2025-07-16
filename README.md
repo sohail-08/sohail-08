@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Sohail Ahmed
 #### Web Developer
-![Web Developer](https://scontent.fdac139-1.fna.fbcdn.net/v/t39.30808-6/476276879_2285139675238902_313495204149692722_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEws_OQBdgKy1mp7YVBMtYj10WR4RDI6sXXRZHhEMjqxZgCsw3yhpv-1vQRBV7rzxAmXRU7FdpM9y46_0-DZ28_&_nc_ohc=jwXi0u9jvLMQ7kNvwEK7mmh&_nc_oc=AdlunLCztLNW4sjYWxhWDJ3KSwzb64htYGAJmQ7jYrZxmFxeekccV-ZrH9zXfq0OVCg&_nc_zt=23&_nc_ht=scontent.fdac139-1.fna&_nc_gid=1_NV_ztOII98z1QUwx08fA&oh=00_AfSQiO3-MgZiYsIOcZ7P3pB6ybJ8SsPI3-NQkr9fY-SfRw&oe=687D8DB8)
-
 I am a Front End web developer who is passionate about making modern websites. I have a passion for learning and I love to share my knowledge with others. I like to solve real world problems. I have my expertise on MERN stack development. I am familiar with React.js, Node.js, Express.js,MongoDB, HTML and TailwindCSS. I am very sincere  and focused about my work. 
 
 Skills: REACT / JS / HTML / CSS/ NODE / MONGODB 
